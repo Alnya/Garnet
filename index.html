@@ -106,8 +106,8 @@
     window.onload = function () {
       let auth = sessionStorage.getItem("auth");
       if (auth == null || auth == "") {
-        let layout = document.getElementById("layout");
-        layout.style.display = "none";
+        // let layout = document.getElementById("layout");
+        // layout.style.display = "none";
         // sessionStorage.setItem("auth", "ok");
         let currentUrl = location.href;
         if (!currentUrl.endsWith("/Auth")) {
