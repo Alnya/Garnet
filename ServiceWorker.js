@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-YARO13-1.0.2";
 const contentToCache = [
-    "Build/Build01.loader.js",
-    "Build/Build01.framework.js",
-    "Build/Build01.data",
-    "Build/Build01.wasm",
+    "Build/Build03.loader.js",
+    "Build/Build03.framework.js",
+    "Build/Build03.data",
+    "Build/Build03.wasm",
     "TemplateData/style.css"
 
 ];
